@@ -1,1 +1,2 @@
-# C codes
+# C.
+# quick intro to refresh your knowledge  
