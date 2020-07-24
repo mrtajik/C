@@ -4,6 +4,7 @@
    f-displays  a flaoting-point num,ber in "fixed decimal" format, without an exponent.
    g-displays a floating-point number in either exp format or fixed decimal format,
    depending, on the number's size.
+*/   
 
 #include<stdio.h>
 
