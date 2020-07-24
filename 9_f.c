@@ -1,4 +1,4 @@
-/* Conversion During Assigment */
+/* Conversion During Assignment */
 
 #include <stdio.h>
 
