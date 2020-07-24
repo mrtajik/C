@@ -14,11 +14,11 @@ main()
 	scanf("%d",&length);
 	printf("Enter width og the box:");
 	scanf("%d",&width);
-    volume=height*width*length;
-    weight=(volume+165)/166;
+        volume=height*width*length;
+        weight=(volume+165)/166;
     
-    printf("Volume (cubic inches): %d\n", volume);
-    printf("Dimensional weight (pounds): %d\n", weight);
+        printf("Volume (cubic inches): %d\n", volume);
+        printf("Dimensional weight (pounds): %d\n", weight);
 	
 	return 0;
 }
