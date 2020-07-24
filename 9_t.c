@@ -60,4 +60,13 @@
 	Calling function *max:
 	int *p,x,y;
 	p=max(&x,&y);
+	
+	
+	Pointer arithmetics:
+	-adding an integer to a pointer
+	-substracting an integer from a pointer
+	-substracting two pointers
+
+	Comparing pointers:
+	-usual relational operations;	
 */
