@@ -1,4 +1,9 @@
 /*Print int and float values in various formats*/
+/* d-displays an integer in decimal(base 10).
+   e-displays a floating-point number in exponential format.
+   f-displays  a flaoting-point num,ber in "fixed decimal" format, without an exponent.
+   g-displays a floating-point number in either exp format or fixed decimal format,
+   depending, on the number's size.
 
 #include<stdio.h>
 
