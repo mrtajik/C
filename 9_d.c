@@ -1,4 +1,4 @@
-/*PUTCHAR(), GETCHAR() FUNCTIONS*/
+/*PUTCHAR(), GETCHAR(), TOUPPER() FUNCTIONS*/
 
 
 #include <stdio.h>
@@ -6,11 +6,13 @@
 
 int main(int argc, char const *argv[])
 {
-	char c;
+    char c,f;
     printf("Enter some character: ");
     c = getchar();
     putchar(c);
     printf("\n");
+    f=toupper(c);
+    printf("Your character : %c\n", f);	
        
-	return 0;
+    return 0;
 }
