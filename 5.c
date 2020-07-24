@@ -10,12 +10,10 @@
 #include <stdio.h>
 main()
 {
-	int a = 1022;
-    char b = 'Z';
-    printf("a equals %d \n", a);
-    printf("a equals %c \n", a);
-    printf("b equals %d \n", b);
-    printf("b equals %c \n", b);
-	
+	int test;
+        printf("Enter an integer: ");
+        scanf("%d", &test);  
+        printf("Number = %d",test);
+    
 	return 0;
 }	
