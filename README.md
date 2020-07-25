@@ -1,2 +1,2 @@
-# C.
-# quick intro, to refresh your knowledge  
+# C and examples.
+# quick intro, to refresh.
